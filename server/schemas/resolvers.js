@@ -22,6 +22,7 @@ const resolvers = {
       },
       
       login: async (parent, { email, password }) => {
+        console.log('testing here')
         const user = await User.findOne({ email });
         const checkPassword = await user.isCorrectPassword(password);
   
@@ -30,6 +31,7 @@ const resolvers = {
         }
   
         const token = signToken(user);
+        console.log(token);
         return { token, user };
       },
       
