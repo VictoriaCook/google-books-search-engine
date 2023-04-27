@@ -33,4 +33,8 @@ The following images shows the application's appearance and functionality:
 ![](./assets/21-mern-homework-demo-02.gif)
 ![](./assets/21-mern-homework-demo-03.gif)
 
+## Deployment
+
+This app is deployed on Heroku [here](https://nameless-river-06964.herokuapp.com/).
+
 ---
