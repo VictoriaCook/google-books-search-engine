@@ -29,8 +29,8 @@ To start the application, please complete the following steps:
 
 The following images shows the application's appearance and functionality:
 
-(./assets/21-mern-homework-demo-01.gif)
-(./assets/21-mern-homework-demo-02.gif)
-(./assets/21-mern-homework-demo-03.gif)
+![](./assets/21-mern-homework-demo-01.gif)
+![](./assets/21-mern-homework-demo-02.gif)
+![](./assets/21-mern-homework-demo-03.gif)
 
 ---
